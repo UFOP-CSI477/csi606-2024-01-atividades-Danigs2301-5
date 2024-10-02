@@ -2,9 +2,9 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
+- Nome: Daniel Giraldo Sanclemente 
+- Matrícula:24.1.0026
+- Curso:Sistemas de informação
 - Semestre/Ano correntes:
 - Link para o seu GitHub:
 
